@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>New Webpage</title>
+    </head>
+    
+    <body>
+        <img src="csc106_banner.jpg">
+        <h1> ABOUT ME</h1>
+        
+        <thead>
+        <tr>
+            <img src="aboutme_button.png">
+            <img src="javascripts_button.png">
+            <img src="home_button.png">
+        </tr>
+        </thead>
+        
+        <p>I am originally from Providence,Rhode Island and I am a feshman.I decided to pursue COmputer Science in order to have a bigger purpose, and change lives around the world.As I believe during this innovative technology era in our generation, the best form to create a difference is to contribute into the technic rush.</p>
+       
+            
+        
+
+    
+    </body>
+</html>
